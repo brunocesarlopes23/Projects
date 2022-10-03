@@ -1,6 +1,6 @@
 <p><b># Projeto de estudo</b></p>
 <p>#Este projeto foi uma análise de dados de uma rede de supermercados self-service com 896 lojas.</p>
-<p>#Objetivo entender quais lojas vendiam mais e porque.</p>
+<p>#Objetivo entender quais lojas vendiam mais e porquê?.</p>
 <p>#Para tal, utilizei Jupyter Notebook.</p>
 <p>#Trabalhei com as bibliotecas: Pandas, Numpy, Seaborn, Matpotlib, statistics</p>
 <p>#Inicialmente fiz uma limpeza e tratamento dos dados.</p>
